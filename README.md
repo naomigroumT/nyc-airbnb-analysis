@@ -2,7 +2,7 @@
 # Airbnb Pricing Analysis in New York City
 
 ## Overview
-This project analyzes Airbnb listing data in New York City to understand the key factors that influence pricing. Using data visualization and statistical analysis, the project explores how location, room type, and host behavior impact Airbnb prices.
+This project analyzes Airbnb listing data in New York City to understand the key factors that influence pricing. Using data visualization, SQL queries, and statistical analysis, the project explores how location, room type, and host behavior impact Airbnb prices.
 
 ## Objectives
 - Analyze how Airbnb prices vary across NYC boroughs and neighborhoods  
@@ -17,9 +17,10 @@ The dataset used in this project includes Airbnb listings across New York City, 
 - Host ID and number of listings  
 
 ## Methods
-The analysis was conducted using Python and includes:
+The analysis was conducted using Python and SQL and includes:
 - Data cleaning and preprocessing  
 - Data visualization (maps, bar charts, box plots, and line graphs)  
+- SQL queries for data exploration and aggregation  
 - Grouping and aggregation techniques  
 
 ## Key Findings
@@ -31,6 +32,7 @@ The analysis was conducted using Python and includes:
 - Python  
 - Pandas  
 - Matplotlib / Plotly  
+- SQLite / SQL  
 - Jupyter Notebook  
 
 ## Project Structure
